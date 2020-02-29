@@ -22,14 +22,17 @@ Icons used are from,
   
 
 # INSTALLATIONS
-## X-code
-
-## Android Studio 
-
-## Flutter 
 
 
-## draw.io to create the flowchart of the i-am-rich app
+### X-code
+
+
+### Android Studio 
+
+
+### Flutter 
+
+
 
 
    
