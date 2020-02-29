@@ -1,5 +1,6 @@
 
 # Personal Business Card
+It's a native app which can be used on both android and ios and was created using Dart and Flutter. 
 
 ## Getting Started
 
@@ -19,19 +20,15 @@ samples, guidance on mobile development, and a full API reference.
 
 Icons used are from  [Material Design](https://www.materialpalette.com/)
 
-  
-  
+ 
 
-# INSTALLATIONS
+## INSTALLATIONS
 
 
 ### X-code
 
-
 ### Android Studio 
 
-
-### Flutter 
 
 
 
