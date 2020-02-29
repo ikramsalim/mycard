@@ -3,7 +3,7 @@
 
 ## Getting Started
 
-We will design the app's user interface by using stateless and layout widgets, Container class from flutter and design user interfaces for Flutter apps.
+We will design the app by using stateless and layout widgets, Container class from flutter and design user interfaces for Flutter apps.
 
 ## What you will create
 
